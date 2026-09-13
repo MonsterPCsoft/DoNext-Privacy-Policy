@@ -1,8 +1,11 @@
-Bu repository,DoNext uygulaması için hazırlanan gizlilik politikasını içerir.
+# DoNext Gizlilik Politikası
+
+Bu repository, **DoNext** uygulaması için hazırlanan gizlilik politikasını içerir.  
 Sayfa GitHub Pages üzerinden yayınlanmaktadır:
 
-[https://](https://monsterpcsoft.github.io/DoNext Privacy Policy/)
+https://monsterpcsoft.github.io/DoNext-Privacy/
 
-İçerik
-index.html → Gizlilik Politikası sayfası
+## İçerik
+- index.html → Gizlilik Politikası sayfası
+
 © 2026 RockBit. Tüm hakları saklıdır.
