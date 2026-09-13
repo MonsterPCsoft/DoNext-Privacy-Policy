@@ -3,7 +3,7 @@
 Bu repository, **DoNext** uygulaması için hazırlanan gizlilik politikasını içerir.  
 Sayfa GitHub Pages üzerinden yayınlanmaktadır:
 
-https://monsterpcsoft.github.io/DoNext-Privacy/
+https://monsterpcsoft.github.io/DoNext-Privacy-Policy/
 
 ## İçerik
 - index.html → Gizlilik Politikası sayfası
